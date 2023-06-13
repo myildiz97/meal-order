@@ -7,6 +7,9 @@
 npm install
 npm run dev
 ````
-
-# Preview
+## Preview
 https://meal-order-myildiz97.netlify.app/
+
+## To Do
+- [ ] Meal deal discount
+- [ ] Rate experience
